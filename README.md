@@ -109,7 +109,7 @@ Download the generated dashboard as HTML or PDF for sharing.
 
 ---
 
-## 🔒 Security
+## Security
 
 - **Read-Only Database Access:** Only SELECT queries are permitted.
 - **Schema Validation:** Queries are checked against allowed tables and columns.
@@ -123,7 +123,7 @@ raise Exception("Only SELECT queries are allowed.")
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository.
 2. Create a new branch:  
@@ -136,7 +136,7 @@ raise Exception("Only SELECT queries are allowed.")
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 - Agno AI Agent Framework
 - Streamlit
 
