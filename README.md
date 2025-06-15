@@ -29,15 +29,7 @@ An AI-powered system that transforms SQL databases into interactive dashboards u
 
 ---
 
-## 🛠️ Architecture
 
-graph TD
-A[Streamlit UI] --> B[LLM Agent]
-B --> C[MCP Server]
-C --> D[SQL Database]
-D --> C
-C --> B
-B --> A
 
 
 **Components:**
@@ -60,7 +52,7 @@ B --> A
 
 1. **Clone the repository:**
     ```
-    git clone https://github.com/yourusername/mcp-sql-visualization.git
+    git clone https://github.com/sathwikabbaraju/MCP-SQL-Visualization.git
     cd mcp-sql-visualization
     ```
 
